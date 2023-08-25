@@ -2,14 +2,14 @@
 
 # Authors
 <ul>
-    <li><b>Shengpeng Ji     *Zhejiang University*</li>
-    <li>Jialong Zuo     *Zhejiang University*</li>
-    <li>Minghui Fang        *Zhejiang University*</li>
-    <li>Ziyue Jiang     *Zhejiang University*</li>
-    <li>Feiyang Chen        *Huawei Cloud*</li>
-    <li>Xinyu Duan      *Huawei Cloud*</li>
-    <li>Baoxing Hua     *Huawei Cloud*</li>
-    <li>Zhou Zhao   *Zhejiang University*     *Corresponding author*</li>
+    <li><b>Shengpeng Ji  Zhejiang University</li>
+    <li>Jialong Zuo  Zhejiang University</li>
+    <li>Minghui Fang  Zhejiang University</li>
+    <li>Ziyue Jiang  Zhejiang University</li>
+    <li>Feiyang Chen  Huawei Cloud</li>
+    <li>Xinyu Duan  Huawei Cloud</li>
+    <li>Baoxing Hua  Huawei Cloud</li>
+    <li>Zhou Zhao  Zhejiang University  Corresponding author</li>
 </ul>
 
 <br>
