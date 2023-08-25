@@ -25,7 +25,7 @@ We have released a demo version containing 500 prompts on this page. If you want
 <li> <a href="mailto:shengpengji@zju.edu.cn">shengpengji@zju.edu.cn</a> </li>
 <li> <a href="mailto:jialongzuo@zju.edu.cn">jialongzuo@zju.edu.cn</a> </li>
 <li> <a href="mailto:minghuifang@zju.edu.cn">minghuifang@zju.edu.cn</a> </li>
-<ul>
+</ul>
     
 <br>
 
