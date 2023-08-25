@@ -2,15 +2,19 @@
 
 # Authors
 <ul>
-    <li> <b>Shengpeng Ji</b>  zhejiang University</li>
-    <li> <b>Jialong Zuo</b>  Zhejiang University</li>
-    <li> <b>Minghui Fang</b>  Zhejiang University</li>
-    <li> <b>Ziyue Jiang</b>  Zhejiang University</li>
-    <li> <b>Feiyang Chen</b>  Huawei Cloud</li>
-    <li> <b>Xinyu Duan</b>  Huawei Cloud</li>
-    <li> <b>Baoxing Hua</b>  Huawei Cloud</li>
-    <li> <b>Zhou Zhao</b>  Zhejiang University  Corresponding author</li>
+    <li> <b>Shengpeng Ji</b><sup>1</sup></li>
+    <li> <b>Jialong Zuo</b><sup>1</sup></li>
+    <li> <b>Minghui Fang</b><sup>1</sup></li>
+    <li> <b>Ziyue Jiang</b><sup>1</sup></li>
+    <li> <b>Feiyang Chen</b><sup>2</sup></li>
+    <li> <b>Xinyu Duan</b><sup>2</sup></li>
+    <li> <b>Baoxing Hua</b><sup>2</sup></li>
+    <li> <b>Zhou Zhao</b><sup>1</sup><sup>*</sup></li>
 </ul>
+
+<span> <sup>1</sup> ZheJiang University </span> <br>
+<span> <sup>2</sup> HuaWei Cloud </span> <br>
+<span> <sup>*</sup> Corresponding Author </span> <br>
 
 <br>
 
@@ -26,7 +30,7 @@ We have released a demo version containing 500 prompts on this page. If you want
 <li> <a href="mailto:jialongzuo@zju.edu.cn">jialongzuo@zju.edu.cn</a> </li>
 <li> <a href="mailto:minghuifang@zju.edu.cn">minghuifang@zju.edu.cn</a> </li>
 </ul>
-    
+
 <br>
 
 # Statistical Characteristics of Datasets
@@ -40,5 +44,4 @@ We have released a demo version containing 500 prompts on this page. If you want
 # Comparison of Different Style Prompts
 
 <br>
-
 
