@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+layout: default
+markdown: kramdown
+kramdown:
+  toc_levels: 1..2
+title: "Stylespeech: A Text Style Prompt Speech Corpus with Codec Language Text-To-Speech Models"
+
