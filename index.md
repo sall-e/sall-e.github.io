@@ -19,12 +19,22 @@ Recently, there has been a growing interest in the field of controllable Text-to
 
 <br>
 
+# Stylespeech
+We have released a demo version containing 500 prompts on this page. If you want to get the full dataset, please contact the following email address.
+<ul>
+<li> <a href="mailto:shengpengji@zju.edu.cn">shengpengji@zju.edu.cn</a> </li>
+<li> <a href="mailto:jialongzuo@zju.edu.cn">jialongzuo@zju.edu.cn</a> </li>
+<li> <a href="mailto:minghuifang@zju.edu.cn">minghuifang@zju.edu.cn</a> </li>
+<ul>
+<br>
+
 # Comparison of Different Speech Styles
 
 
 
 <br>
 
-# Comparison of Different Speech Styles
+# Comparison of Different Style Prompts
 
 <br>
+
