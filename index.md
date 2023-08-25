@@ -29,13 +29,16 @@ We have released a demo version containing 500 prompts on this page. If you want
     
 <br>
 
+# Statistical Characteristics of Datasets
+
+<br>
+
 # Comparison of Different Speech Styles
-
-
 
 <br>
 
 # Comparison of Different Style Prompts
 
 <br>
+
 
