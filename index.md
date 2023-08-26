@@ -25,9 +25,12 @@ Recently, there has been a growing interest in the field of controllable Text-to
 
 # Stylespeech
 
-wait to complete....
+We believe that utilizing natural text descriptions for controlling style in speech is the direction for future development of controllable TTS systems, due to its user-friendliness, generalizability, and interpretability. However, to the best of our knowledge, there is currently no high-quality, large-scale open-source text style prompt speech dataset available for advanced text-controllable TTS models. In this work, we introduce a novel 330-hour clean text style prompt speech emotion dataset called Stylespeech. Each style encompasses 5 style factors ((gender, pitch, speaking speed, volume, and emotion) and 500 distinct natural language text descriptions. This dataset has large-scale, multi-speaker, rich and diverse and natural textual descriptions. This dataset aims to drive the development of text style hinting TTS systems.
 
-We have released a demo version containing 500 prompts on this page. If you want to get the full dataset, please contact the following email address.
+<br>
+
+We have released a demo version containing 500 prompts on this page. You can click <a href="demo_version.csv">demo_version</a> to download.
+If you want to get the full dataset, please contact the following email address.
 <ul>
 <li> <a href="mailto:shengpengji@zju.edu.cn">shengpengji@zju.edu.cn</a> </li>
 <li> <a href="mailto:jialongzuo@zju.edu.cn">jialongzuo@zju.edu.cn</a> </li>
@@ -56,7 +59,7 @@ We have released a demo version containing 500 prompts on this page. If you want
             </td>
 		</tr>
         <tr>
-			<td style="text-align: center">
+			<td>
             The girl's voice resonates with energy in a high tone.
             </td>
             <td style="text-align: center">
@@ -64,7 +67,7 @@ We have released a demo version containing 500 prompts on this page. If you want
             </td>
 		</tr>
         <tr>
-			<td style="text-align: center">
+			<td>
             The man's low-pitched voice maintains an even speaking tempo, evoking a subdued vitality.
             </td>
             <td style="text-align: center">
@@ -72,7 +75,7 @@ We have released a demo version containing 500 prompts on this page. If you want
             </td>
 		</tr>
         <tr>
-			<td style="text-align: center">
+			<td>
             With a fast speaking speed, she recounted the adventure.
             </td>
             <td style="text-align: center">
@@ -80,7 +83,7 @@ We have released a demo version containing 500 prompts on this page. If you want
             </td>
 		</tr>
         <tr>
-			<td style="text-align: center">
+			<td>
             Her tone is average as she talks.
             </td>
             <td style="text-align: center">
@@ -88,7 +91,7 @@ We have released a demo version containing 500 prompts on this page. If you want
             </td>
 		</tr>
         <tr>
-			<td style="text-align: center">
+			<td>
             The male speaker's energetic discourse is accompanied by a normal pitch and speed.
             </td>
             <td style="text-align: center">
@@ -96,7 +99,7 @@ We have released a demo version containing 500 prompts on this page. If you want
             </td>
 		</tr>
         <tr>
-			<td style="text-align: center">
+			<td>
             A mad man speaks in a lower tone and a customary pace, evoking an air of diminished enthusiasm.
             </td>
             <td style="text-align: center">
@@ -104,7 +107,7 @@ We have released a demo version containing 500 prompts on this page. If you want
             </td>
 		</tr>
         <tr>
-			<td style="text-align: center">
+			<td>
             With a low pitch and customary speaking speed, his communication conveys an overall sense of subdued energy.
             </td>
             <td style="text-align: center">
@@ -112,7 +115,7 @@ We have released a demo version containing 500 prompts on this page. If you want
             </td>
 		</tr>
         <tr>
-			<td style="text-align: center">
+			<td>
             The man employs a deep tone and average speaking speed, projecting an overall low vitality.
             </td>
             <td style="text-align: center">
@@ -120,7 +123,7 @@ We have released a demo version containing 500 prompts on this page. If you want
             </td>
 		</tr>
         <tr>
-			<td style="text-align: center">
+			<td>
             The man employs a low-pitched voice, keeping a regular rhythm and usual energy in conversation.
             </td>
             <td style="text-align: center">
@@ -128,7 +131,7 @@ We have released a demo version containing 500 prompts on this page. If you want
             </td>
 		</tr>
         <tr>
-			<td style="text-align: center">
+			<td>
             A male speaker's conversation bursts with high energy through his low-pitched voice at a natural speed.
             </td>
             <td style="text-align: center">
@@ -136,7 +139,7 @@ We have released a demo version containing 500 prompts on this page. If you want
             </td>
 		</tr>
         <tr>
-			<td style="text-align: center">
+			<td>
             His low-pitched speech flows naturally as he maintains a regular cadence and usual energy level.
             </td>
             <td style="text-align: center">
@@ -144,7 +147,7 @@ We have released a demo version containing 500 prompts on this page. If you want
             </td>
 		</tr>
         <tr>
-			<td style="text-align: center">
+			<td>
             The male speaker talks with a deep voice, neither rushed nor sluggish, and maintains balanced energy.
             </td>
             <td style="text-align: center">
@@ -152,7 +155,7 @@ We have released a demo version containing 500 prompts on this page. If you want
             </td>
 		</tr>
         <tr>
-			<td style="text-align: center">
+			<td>
             A woman's high-pitched voice flows rapidly, reflecting regular energy.
             </td>
             <td style="text-align: center">
@@ -160,7 +163,7 @@ We have released a demo version containing 500 prompts on this page. If you want
             </td>
 		</tr>
         <tr>
-			<td style="text-align: center">
+			<td>
             With heightened volume, she conveys her high energy.
             </td>
             <td style="text-align: center">
@@ -182,7 +185,7 @@ We have released a demo version containing 500 prompts on this page. If you want
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center">
+			<td>
             With a fast speaking speed, she recounted the adventure.
             </td>
             <td style="text-align: center">
@@ -190,7 +193,7 @@ We have released a demo version containing 500 prompts on this page. If you want
             </td>
 		</tr>
         <tr>
-			<td style="text-align: center">
+			<td>
             She talks gently, her sorrowful speed unhurried.
             </td>
             <td style="text-align: center">
@@ -198,7 +201,7 @@ We have released a demo version containing 500 prompts on this page. If you want
             </td>
 		</tr>
         <tr>
-			<td style="text-align: center">
+			<td>
             Speaking slowly and deliberately, her miserable voice exhibited a high pitch and quiet tone.
             </td>
             <td style="text-align: center">
@@ -206,7 +209,7 @@ We have released a demo version containing 500 prompts on this page. If you want
             </td>
 		</tr>
         <tr>
-			<td style="text-align: center">
+			<td>
             The woman's voice resonated slowly, her miserable energy remaining low, pitch high.
             </td>
             <td style="text-align: center">
@@ -214,7 +217,7 @@ We have released a demo version containing 500 prompts on this page. If you want
             </td>
 		</tr>
         <tr>
-			<td style="text-align: center">
+			<td>
             A male speaker with his disdainful usual vocal pitch adopts a slow-speaking style, hinting at his lack of energy.
             </td>
             <td style="text-align: center">
@@ -222,7 +225,7 @@ We have released a demo version containing 500 prompts on this page. If you want
             </td>
 		</tr>
         <tr>
-			<td style="text-align: center">
+			<td>
             The male speaker's deep voice and normal speaking tempo combine to create a subdued atmosphere, brimming with a lack of energy.
             </td>
             <td style="text-align: center">
@@ -230,7 +233,7 @@ We have released a demo version containing 500 prompts on this page. If you want
             </td>
 		</tr>
         <tr>
-			<td style="text-align: center">
+			<td>
             Her voice is sharp, yet her enraged speaking rate is standard.
             </td>
             <td style="text-align: center">
@@ -238,7 +241,7 @@ We have released a demo version containing 500 prompts on this page. If you want
             </td>
 		</tr>
         <tr>
-			<td style="text-align: center">
+			<td>
             His fast speaking pace and deep voice mirror his lack of energy.
             </td>
             <td style="text-align: center">
@@ -246,7 +249,7 @@ We have released a demo version containing 500 prompts on this page. If you want
             </td>
 		</tr>
         <tr>
-			<td style="text-align: center">
+			<td>
             The woman's voice conveys enthusiasm and a normal tone.
             </td>
             <td style="text-align: center">
@@ -254,7 +257,7 @@ We have released a demo version containing 500 prompts on this page. If you want
             </td>
 		</tr>
         <tr>
-			<td style="text-align: center">
+			<td>
             In a deliberate manner, she speaks with a deep voice.
             </td>
             <td style="text-align: center">
@@ -262,7 +265,7 @@ We have released a demo version containing 500 prompts on this page. If you want
             </td>
 		</tr>
         <tr>
-			<td style="text-align: center">
+			<td>
             His speaking style, marked by a deep pitch and rapid pace, signifies his low energy.
             </td>
             <td style="text-align: center">
@@ -274,3 +277,5 @@ We have released a demo version containing 500 prompts on this page. If you want
 
 
 <br>
+
+
