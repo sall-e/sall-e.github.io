@@ -24,6 +24,9 @@ Recently, there has been a growing interest in the field of controllable Text-to
 <br>
 
 # Stylespeech
+
+wait to complete....
+
 We have released a demo version containing 500 prompts on this page. If you want to get the full dataset, please contact the following email address.
 <ul>
 <li> <a href="mailto:shengpengji@zju.edu.cn">shengpengji@zju.edu.cn</a> </li>
@@ -33,15 +36,241 @@ We have released a demo version containing 500 prompts on this page. If you want
 
 <br>
 
-# Statistical Characteristics of Datasets
+# Audio Demo
+
+<ruby>Text: A doctor believes this boy to be mad.</ruby>
+<table>
+	<thead>
+		<tr>
+			<th style="text-align: center">Style Prompt</th>
+            <th style="text-align: center">Audio</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align: center">
+            The joyful woman's high-pitched voice carried a slow yet energetic speech.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/2_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td style="text-align: center">
+            The girl's voice resonates with energy in a high tone.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/6_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td style="text-align: center">
+            The man's low-pitched voice maintains an even speaking tempo, evoking a subdued vitality.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/8_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td style="text-align: center">
+            With a fast speaking speed, she recounted the adventure.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/12_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td style="text-align: center">
+            Her tone is average as she talks.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/28_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td style="text-align: center">
+            The male speaker's energetic discourse is accompanied by a normal pitch and speed.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/56_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td style="text-align: center">
+            A mad man speaks in a lower tone and a customary pace, evoking an air of diminished enthusiasm.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/68_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td style="text-align: center">
+            With a low pitch and customary speaking speed, his communication conveys an overall sense of subdued energy.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/98_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td style="text-align: center">
+            The man employs a deep tone and average speaking speed, projecting an overall low vitality.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/132_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td style="text-align: center">
+            The man employs a low-pitched voice, keeping a regular rhythm and usual energy in conversation.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/136_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td style="text-align: center">
+            A male speaker's conversation bursts with high energy through his low-pitched voice at a natural speed.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/270_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td style="text-align: center">
+            His low-pitched speech flows naturally as he maintains a regular cadence and usual energy level.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/308_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td style="text-align: center">
+            The male speaker talks with a deep voice, neither rushed nor sluggish, and maintains balanced energy.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/382_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td style="text-align: center">
+            A woman's high-pitched voice flows rapidly, reflecting regular energy.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/388_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td style="text-align: center">
+            With heightened volume, she conveys her high energy.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/396_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+	</tbody>
+</table>
 
 <br>
 
-# Comparison of Different Speech Styles
+<ruby>Text: Racism has no place in any sport.</ruby>
+<table>
+	<thead>
+		<tr>
+			<th style="text-align: center">Style Prompt</th>
+            <th style="text-align: center">Audio</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align: center">
+            With a fast speaking speed, she recounted the adventure.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/13_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td style="text-align: center">
+            She talks gently, her sorrowful speed unhurried.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/17_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td style="text-align: center">
+            Speaking slowly and deliberately, her miserable voice exhibited a high pitch and quiet tone.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/21_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td style="text-align: center">
+            The woman's voice resonated slowly, her miserable energy remaining low, pitch high.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/47_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td style="text-align: center">
+            A male speaker with his disdainful usual vocal pitch adopts a slow-speaking style, hinting at his lack of energy.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/151_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td style="text-align: center">
+            The male speaker's deep voice and normal speaking tempo combine to create a subdued atmosphere, brimming with a lack of energy.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/159_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td style="text-align: center">
+            Her voice is sharp, yet her enraged speaking rate is standard.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/163_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td style="text-align: center">
+            His fast speaking pace and deep voice mirror his lack of energy.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/285_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td style="text-align: center">
+            The woman's voice conveys enthusiasm and a normal tone.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/287_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td style="text-align: center">
+            In a deliberate manner, she speaks with a deep voice.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/317_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td style="text-align: center">
+            His speaking style, marked by a deep pitch and rapid pace, signifies his low energy.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/377_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+	</tbody>
+</table>
+
 
 <br>
-
-# Comparison of Different Style Prompts
-
-<br>
-
