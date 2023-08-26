@@ -25,11 +25,11 @@ Recently, there has been a growing interest in the field of controllable Text-to
 
 # Stylespeech
 
-We believe that utilizing natural text descriptions for controlling style in speech is the direction for future development of controllable TTS systems, due to its user-friendliness, generalizability, and interpretability. However, to the best of our knowledge, there is currently no high-quality, large-scale open-source text style prompt speech dataset available for advanced text-controllable TTS models. In this work, we introduce a novel 330-hour clean text style prompt speech emotion dataset called Stylespeech. Each style encompasses 5 style factors ((gender, pitch, speaking speed, volume, and emotion) and 500 distinct natural language text descriptions. This dataset has large-scale, multi-speaker, rich and diverse and natural textual descriptions. This dataset aims to drive the development of text style hinting TTS systems.
+We believe that utilizing natural text descriptions for controlling style in speech is the direction for future development of controllable TTS systems, due to its user-friendliness, generalizability, and interpretability. However, to the best of our knowledge, there is currently no high-quality, large-scale open-source text style prompt speech dataset available for advanced text-controllable TTS models. In this work, we introduce a novel 330-hour clean text style prompt speech emotion dataset called Stylespeech. Each style encompasses 5 style factors (gender, pitch, speaking speed, volume, and emotion) and 500 distinct natural language text descriptions. This dataset has large-scale, multi-speaker, rich and diverse and natural textual descriptions. This dataset aims to drive the development of text style hinting TTS systems.
 
 <br>
 
-We have released a demo version containing 500 prompts on this page. You can click <a href="demo_version.csv">demo_version</a> to download.
+We have released a demo version containing 500 prompts on this page with five style factors: female, high pitch, fast speaking speed, high energy, sad. You can click <a href="demo_version.txt">demo_version</a> to download.
 If you want to get the full dataset, please contact the following email address.
 <ul>
 <li> <a href="mailto:shengpengji@zju.edu.cn">shengpengji@zju.edu.cn</a> </li>
