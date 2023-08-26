@@ -30,12 +30,12 @@ We believe that utilizing natural text descriptions for controlling style in spe
 <br>
 
 In previous works, dataset sizes were limited to a few tens of hours or several thousand corresponding text prompts, greatly restricting the performance of the models. In contrast, StyleSpeech provides an open-source dataset consisting of 330 hours of speech data and 236,220 naturally text style descriptions.
-<img src="figure1.png"></img>
+<img src="figure1.png">
 
 <br>
 
 The figure below shows two example word clouds for style descriptions.
-<img src="figure2.png"></img>
+<img src="figure2.png">
 
 <br>
 
