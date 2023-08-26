@@ -29,7 +29,7 @@ We believe that utilizing natural text descriptions for controlling style in spe
 
 <br>
 
-We have released a demo version containing 500 prompts on this page with five style factors: female, high pitch, fast speaking speed, high energy, sad. You can click <a href="demo_version.txt">demo_version</a> to download.
+We have released a demo version containing 500 prompts on this page with five style factors: female, high pitch, fast speaking speed, high energy, sad. You can click <a href="demo_version.txt" download="demo.txt">demo_version</a> to download.
 If you want to get the full dataset, please contact the following email address.
 <ul>
 <li> <a href="mailto:shengpengji@zju.edu.cn">shengpengji@zju.edu.cn</a> </li>
