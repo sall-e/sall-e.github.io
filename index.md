@@ -48,7 +48,7 @@ We have released a demo version containing 500 prompts on this page. If you want
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center">
+			<td>
             The joyful woman's high-pitched voice carried a slow yet energetic speech.
             </td>
             <td style="text-align: center">
