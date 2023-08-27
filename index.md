@@ -8,7 +8,7 @@
     <li> <b>Ziyue Jiang</b><sup>1</sup></li>
     <li> <b>Feiyang Chen</b><sup>2</sup></li>
     <li> <b>Xinyu Duan</b><sup>2</sup></li>
-    <li> <b>Baoxing Hua</b><sup>2</sup></li>
+    <li> <b>Baoxing Huai</b><sup>2</sup></li>
     <li> <b>Zhou Zhao</b><sup>1</sup><sup>*</sup></li>
 </ul>
 
