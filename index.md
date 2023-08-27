@@ -23,7 +23,7 @@ Recently, there has been a growing interest in the field of controllable Text-to
 
 <br>
 
-# Stylespeech
+# TextrolSpeech
 
 We believe that utilizing natural text descriptions for controlling style in speech is the direction for future development of controllable TTS systems, due to its user-friendliness, generalizability, and interpretability. However, to the best of our knowledge, there is currently no high-quality, large-scale open-source text style prompt speech dataset available for advanced text-controllable TTS models. In this work, we introduce a novel 330-hour clean text style prompt speech emotion dataset called TextrolSpeech. Each style encompasses 5 style factors and 500 distinct natural language text descriptions.
 <br>
@@ -35,7 +35,7 @@ The figure below shows two example word clouds for style descriptions.
 <img src="figure2.png">
 <br>
 
-The figure below shows the distribution of emotions in Stylespeech.
+The figure below shows the distribution of emotions in TextrolSpeech.
 <br>
 <img src="figure3_.png">
 <br>
