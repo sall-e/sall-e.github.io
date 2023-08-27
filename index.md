@@ -65,26 +65,10 @@ If you want to get the full dataset, please contact the following email address.
 	<tbody>
         <tr>
 			<td>
-            The girl's voice resonates with energy in a high tone.
-            </td>
-            <td style="text-align: center">
-            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/6_decompressed.wav" type="audio/wav"></audio>
-            </td>
-		</tr>
-        <tr>
-			<td>
             The man's low-pitched voice maintains an even speaking tempo, evoking a subdued vitality.
             </td>
             <td style="text-align: center">
             <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/8_decompressed.wav" type="audio/wav"></audio>
-            </td>
-		</tr>
-        <tr>
-			<td>
-            Her tone is average as she talks.
-            </td>
-            <td style="text-align: center">
-            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/28_decompressed.wav" type="audio/wav"></audio>
             </td>
 		</tr>
         <tr>
