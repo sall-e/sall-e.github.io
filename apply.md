@@ -1,4 +1,4 @@
-# The way to apply for Stylespeech
+# The way to apply for TextrolSpeech
 Thanks for your attention to our works. Please write the email with:
 
 "
@@ -9,7 +9,7 @@ affiliations: *** (school or institution)
 
 research fields: ***
 
-We want to apply for Stylespeech and agree to the dataset license: CC by-nc-sa 4.0 (NonCommercial!). 
+We want to apply for TextrolSpeech and agree to the dataset license: CC by-nc-sa 4.0 (NonCommercial!). 
 
 We accept full responsibility for our use of the dataset and shall defend and indemnify the authors of "TextrolSpeech: A Text Style Control Speech Corpus with Codec Language Text-To-Speech Models", against any and all claims arising from our use of the dataset, including but not limited to our use of any copies of copyrighted audio files that we may create from the dataset.
 
@@ -21,6 +21,6 @@ We will cite your paper if these codes or data have been used. We will not distr
 
 Then we will provide the download link to you. 
 
-**Please note that, if you are using Stylespeech, it means that you have accepted the terms above.**
+**Please note that, if you are using TextrolSpeech, it means that you have accepted the terms above.**
 
 **Please use your Official Email Address (like xxx@yyy.edu.cn)! Thank you!**
