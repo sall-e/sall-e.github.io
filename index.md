@@ -43,7 +43,7 @@ The left sub-graph in the figure below shows the ratio of men and women in the d
 <br>
 
 We have released a demo version containing 500 style descriptions on this page with five style factors: female, high pitch, fast speaking speed, high energy, sad. You can click <a href="demo_version.txt" download="demo.txt">demo_version</a> to download.
-If you want to get the full dataset, please contact the following email address.
+If you want to get the full dataset, please contact the following email address and refer to the following <a href="apply.md" download="apply_form.md">format</a>.
 <ul>
 <li> <a href="mailto:shengpengji@zju.edu.cn">shengpengji@zju.edu.cn</a> </li>
 <li> <a href="mailto:jialongzuo@zju.edu.cn">jialongzuo@zju.edu.cn</a> </li>
