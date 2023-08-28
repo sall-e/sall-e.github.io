@@ -63,18 +63,10 @@ If you want to get the full dataset, please contact the following email address 
 	<tbody>
         <tr>
 			<td>
-            The man's low-pitched voice maintains an even speaking tempo, evoking a subdued vitality.
+            With a low pitch and customary speaking speed, his communication conveys an overall sense of subdued energy.
             </td>
             <td style="text-align: center">
-            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/8_decompressed.wav" type="audio/wav"></audio>
-            </td>
-		</tr>
-        <tr>
-			<td>
-            The male speaker's energetic discourse is accompanied by a normal pitch and speed.
-            </td>
-            <td style="text-align: center">
-            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/56_decompressed.wav" type="audio/wav"></audio>
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/98_decompressed.wav" type="audio/wav"></audio>
             </td>
 		</tr>
         <tr>
@@ -87,18 +79,34 @@ If you want to get the full dataset, please contact the following email address 
 		</tr>
         <tr>
 			<td>
-            With a low pitch and customary speaking speed, his communication conveys an overall sense of subdued energy.
-            </td>
-            <td style="text-align: center">
-            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/98_decompressed.wav" type="audio/wav"></audio>
-            </td>
-		</tr>
-        <tr>
-			<td>
             The man employs a deep tone and average speaking speed, projecting an overall low vitality.
             </td>
             <td style="text-align: center">
             <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/132_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td>
+            The male speaker's energetic discourse is accompanied by a normal pitch and speed.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/56_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td>
+            The man's low-pitched voice maintains an even speaking tempo, evoking a subdued vitality.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/8_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td>
+            The man's deep voice and dynamic speaking style maintain high energy at a normal speed.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/194_decompressed.wav" type="audio/wav"></audio>
             </td>
 		</tr>
         <tr>
@@ -119,18 +127,10 @@ If you want to get the full dataset, please contact the following email address 
 		</tr>
         <tr>
 			<td>
-            The man's deep voice and dynamic speaking style maintain high energy at a normal speed.
+            A woman's high-pitched voice flows rapidly, reflecting regular energy.
             </td>
             <td style="text-align: center">
-            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/194_decompressed.wav" type="audio/wav"></audio>
-            </td>
-		</tr>
-        <tr>
-			<td>
-            A male speaker's conversation bursts with high energy through his low-pitched voice at a natural speed.
-            </td>
-            <td style="text-align: center">
-            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/270_decompressed.wav" type="audio/wav"></audio>
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/388_decompressed.wav" type="audio/wav"></audio>
             </td>
 		</tr>
         <tr>
@@ -143,18 +143,18 @@ If you want to get the full dataset, please contact the following email address 
 		</tr>
         <tr>
 			<td>
-            The male speaker talks with a deep voice, neither rushed nor sluggish, and maintains balanced energy.
+            A male speaker's conversation bursts with high energy through his low-pitched voice at a natural speed.
             </td>
             <td style="text-align: center">
-            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/382_decompressed.wav" type="audio/wav"></audio>
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/270_decompressed.wav" type="audio/wav"></audio>
             </td>
 		</tr>
         <tr>
 			<td>
-            A woman's high-pitched voice flows rapidly, reflecting regular energy.
+            The male speaker talks with a deep voice, neither rushed nor sluggish, and maintains balanced energy.
             </td>
             <td style="text-align: center">
-            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/388_decompressed.wav" type="audio/wav"></audio>
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/382_decompressed.wav" type="audio/wav"></audio>
             </td>
 		</tr>
         <tr>
@@ -179,6 +179,22 @@ If you want to get the full dataset, please contact the following email address 
 		</tr>
 	</thead>
 	<tbody>
+        <tr>
+			<td>
+            The male speaker's deep voice and normal speaking tempo combine to create a subdued atmosphere, brimming with a lack of energy.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/159_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td>
+            His fast speaking pace and deep voice mirror his lack of energy.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/285_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
 		<tr>
 			<td>
             With a fast speaking speed, she recounted the adventure.
@@ -197,34 +213,18 @@ If you want to get the full dataset, please contact the following email address 
 		</tr>
         <tr>
 			<td>
-            Speaking slowly and deliberately, her miserable voice exhibited a high pitch and quiet tone.
-            </td>
-            <td style="text-align: center">
-            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/21_decompressed.wav" type="audio/wav"></audio>
-            </td>
-		</tr>
-        <tr>
-			<td>
-            The woman's voice resonated slowly, her miserable energy remaining low, pitch high.
-            </td>
-            <td style="text-align: center">
-            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/47_decompressed.wav" type="audio/wav"></audio>
-            </td>
-		</tr>
-        <tr>
-			<td>
-            The male speaker's deep voice and normal speaking tempo combine to create a subdued atmosphere, brimming with a lack of energy.
-            </td>
-            <td style="text-align: center">
-            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/159_decompressed.wav" type="audio/wav"></audio>
-            </td>
-		</tr>
-        <tr>
-			<td>
             Her voice is sharp, yet her enraged speaking rate is standard.
             </td>
             <td style="text-align: center">
             <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/163_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td>
+            Speaking with normal energy, she conversed swiftly.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/331_decompressed.wav" type="audio/wav"></audio>
             </td>
 		</tr>
         <tr>
@@ -245,14 +245,6 @@ If you want to get the full dataset, please contact the following email address 
 		</tr>
         <tr>
 			<td>
-            His fast speaking pace and deep voice mirror his lack of energy.
-            </td>
-            <td style="text-align: center">
-            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/285_decompressed.wav" type="audio/wav"></audio>
-            </td>
-		</tr>
-        <tr>
-			<td>
             The woman's voice conveys enthusiasm and a normal tone.
             </td>
             <td style="text-align: center">
@@ -269,18 +261,26 @@ If you want to get the full dataset, please contact the following email address 
 		</tr>
         <tr>
 			<td>
-            Speaking with normal energy, she conversed swiftly.
-            </td>
-            <td style="text-align: center">
-            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/331_decompressed.wav" type="audio/wav"></audio>
-            </td>
-		</tr>
-        <tr>
-			<td>
             His speaking style, marked by a deep pitch and rapid pace, signifies his low energy.
             </td>
             <td style="text-align: center">
             <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/377_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td>
+            Speaking slowly and deliberately, her miserable voice exhibited a high pitch and quiet tone.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/21_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td>
+            The woman's voice resonated slowly, her miserable energy remaining low, pitch high.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/47_decompressed.wav" type="audio/wav"></audio>
             </td>
 		</tr>
 	</tbody>
