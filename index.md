@@ -93,20 +93,20 @@ If you want to get the full dataset, please contact the following email address 
             <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/56_decompressed.wav" type="audio/wav"></audio>
             </td>
 		</tr>
+         <tr>
+			<td>
+            The man's deep voice and dynamic speaking style maintain high energy at a normal speed.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/194_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
         <tr>
 			<td>
             The man's low-pitched voice maintains an even speaking tempo, evoking a subdued vitality.
             </td>
             <td style="text-align: center">
             <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/8_decompressed.wav" type="audio/wav"></audio>
-            </td>
-		</tr>
-        <tr>
-			<td>
-            The man's deep voice and dynamic speaking style maintain high energy at a normal speed.
-            </td>
-            <td style="text-align: center">
-            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/194_decompressed.wav" type="audio/wav"></audio>
             </td>
 		</tr>
         <tr>
