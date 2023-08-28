@@ -71,7 +71,7 @@ If you want to get the full dataset, please contact the following email address 
 		</tr>
         <tr>
 			<td>
-            A mad man speaks in a lower tone and a customary pace, evoking an air of diminished enthusiasm.
+            A <b>mad</b> man speaks in a lower tone and a customary pace, evoking an air of diminished enthusiasm.
             </td>
             <td style="text-align: center">
             <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/68_decompressed.wav" type="audio/wav"></audio>
@@ -205,7 +205,7 @@ If you want to get the full dataset, please contact the following email address 
 		</tr>
         <tr>
 			<td>
-            Her voice is sharp, yet her enraged speaking rate is standard.
+            Her voice is sharp, yet her <b>enraged</b> speaking rate is standard.
             </td>
             <td style="text-align: center">
             <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/163_decompressed.wav" type="audio/wav"></audio>
@@ -213,7 +213,7 @@ If you want to get the full dataset, please contact the following email address 
 		</tr>
         <tr>
 			<td>
-            She talks gently, her sorrowful speed unhurried.
+            She talks gently, her <b>sorrowful</b> speed unhurried.
             </td>
             <td style="text-align: center">
             <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/17_decompressed.wav" type="audio/wav"></audio>
@@ -269,7 +269,7 @@ If you want to get the full dataset, please contact the following email address 
 		</tr>
         <tr>
 			<td>
-            Speaking slowly and deliberately, her miserable voice exhibited a high pitch and quiet tone.
+            Speaking slowly and deliberately, her <b>miserable</b> voice exhibited a high pitch and quiet tone.
             </td>
             <td style="text-align: center">
             <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/21_decompressed.wav" type="audio/wav"></audio>
@@ -277,7 +277,7 @@ If you want to get the full dataset, please contact the following email address 
 		</tr>
         <tr>
 			<td>
-            The woman's voice resonated slowly, her miserable energy remaining low, pitch high.
+            The woman's voice resonated slowly, her <b>miserable</b> energy remaining low, pitch high.
             </td>
             <td style="text-align: center">
             <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/47_decompressed.wav" type="audio/wav"></audio>
