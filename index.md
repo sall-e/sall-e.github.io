@@ -143,14 +143,6 @@ If you want to get the full dataset, please contact the following email address 
 		</tr>
         <tr>
 			<td>
-            A male speaker's conversation bursts with high energy through his low-pitched voice at a natural speed.
-            </td>
-            <td style="text-align: center">
-            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/270_decompressed.wav" type="audio/wav"></audio>
-            </td>
-		</tr>
-        <tr>
-			<td>
             The male speaker talks with a deep voice, neither rushed nor sluggish, and maintains balanced energy.
             </td>
             <td style="text-align: center">
@@ -163,6 +155,14 @@ If you want to get the full dataset, please contact the following email address 
             </td>
             <td style="text-align: center">
             <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/396_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td>
+            A male speaker's conversation bursts with high energy through his low-pitched voice at a natural speed.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo1/270_decompressed.wav" type="audio/wav"></audio>
             </td>
 		</tr>
 	</tbody>
@@ -205,18 +205,18 @@ If you want to get the full dataset, please contact the following email address 
 		</tr>
         <tr>
 			<td>
-            She talks gently, her sorrowful speed unhurried.
-            </td>
-            <td style="text-align: center">
-            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/17_decompressed.wav" type="audio/wav"></audio>
-            </td>
-		</tr>
-        <tr>
-			<td>
             Her voice is sharp, yet her enraged speaking rate is standard.
             </td>
             <td style="text-align: center">
             <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/163_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td>
+            She talks gently, her sorrowful speed unhurried.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/17_decompressed.wav" type="audio/wav"></audio>
             </td>
 		</tr>
         <tr>
@@ -253,18 +253,18 @@ If you want to get the full dataset, please contact the following email address 
 		</tr>
         <tr>
 			<td>
-            In a deliberate manner, she speaks with a deep voice.
-            </td>
-            <td style="text-align: center">
-            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/317_decompressed.wav" type="audio/wav"></audio>
-            </td>
-		</tr>
-        <tr>
-			<td>
             His speaking style, marked by a deep pitch and rapid pace, signifies his low energy.
             </td>
             <td style="text-align: center">
             <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/377_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td>
+            In a deliberate manner, she speaks with a deep voice.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/317_decompressed.wav" type="audio/wav"></audio>
             </td>
 		</tr>
         <tr>
