@@ -37,7 +37,7 @@ The figure below shows two example word clouds for style descriptions.
 
 The figure below shows the distribution of emotions in TextrolSpeech.
 <br>
-<img src="figure3_.png">
+<img src="figure3.png">
 <br>
 
 We have released a demo version containing 500 style descriptions on this page with five style factors: female, high pitch, fast speaking speed, high energy, sad. You can click <a href="demo_version.txt" download="demo.txt">demo_version</a> to download.
