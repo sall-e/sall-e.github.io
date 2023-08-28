@@ -237,6 +237,14 @@ If you want to get the full dataset, please contact the following email address 
 		</tr>
         <tr>
 			<td>
+            The woman's voice resonated slowly, her <b>miserable</b> energy remaining low, pitch high.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/47_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+	<tr>
+			<td>
             A deliberate and unhurried male voice, with a low pitch that exudes a tranquil yet grounded energy.
             </td>
             <td style="text-align: center">
@@ -273,14 +281,6 @@ If you want to get the full dataset, please contact the following email address 
             </td>
             <td style="text-align: center">
             <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/21_decompressed.wav" type="audio/wav"></audio>
-            </td>
-		</tr>
-        <tr>
-			<td>
-            The woman's voice resonated slowly, her <b>miserable</b> energy remaining low, pitch high.
-            </td>
-            <td style="text-align: center">
-            <audio controls style="width: 300px;"><source src="wav_for_demo/demo2/47_decompressed.wav" type="audio/wav"></audio>
             </td>
 		</tr>
 	</tbody>
