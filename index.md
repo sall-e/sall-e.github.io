@@ -1,5 +1,9 @@
 {:.no_toc}
 
+<font color="red">Since we uploaded TextrolSpeech to arXiv on August 29th, we have received a significant amount of attention within just two days, surpassing our initial expectations. During our ongoing experimentation, we have observed that the accuracy of the speech rate labels is not optimal. Consequently, we have decided to further enhance the quality of the dataset and provide an improved version before September 4th. You are welcome to continue applying, and we will respond to all inquiries by September 4th. For the team that obtained the first version of the TextrolSpeech dataset, we will also send the updated link to your email after the update is released.</font>
+
+<br>
+
 # Authors
 <ul>
     <li> <b>Shengpeng Ji</b><sup>1</sup></li>
