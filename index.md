@@ -290,5 +290,85 @@ If you want to get the full dataset, please contact the following email address 
 	</tbody>
 </table>
 
+# Generalization
+
+<ruby>We show the model's ability to generalize to unknown emotions, such as the voice of despair.</ruby>
+<table>
+	<thead>
+		<tr>
+			<th style="text-align: center">Style Prompt</th>
+            <th style="text-align: center">Text</th>
+            <th style="text-align: center">Audio</th>
+		</tr>
+	</thead>
+	<tbody>
+        <tr>
+			<td>
+            The despair woman's high-pitched voice carried a slow speech.
+            </td>
+            <td>
+            A doctor believes this boy to be mad.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 200px;"><source src="wav_for_demo/demo3/1_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td>
+            The despair woman's high-pitched voice carried a slow yet energetic speech.
+            </td>
+            <td>
+            Racism has no place in any sport.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 200px;"><source src="wav_for_demo/demo3/2_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td>
+            Rapidly speaking, the despair man's deep voice resonates with a sense of normal energy.
+            </td>
+            <td>
+            A doctor believes this boy to be mad.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 200px;"><source src="wav_for_demo/demo3/3_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td>
+            The despair woman's voice resonated slowly, her miserable energy remaining low, pitch high.
+            </td>
+            <td>
+            Racism has no place in any sport.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 200px;"><source src="wav_for_demo/demo3/4_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td>
+            A boy said in a desperate voice.
+            </td>
+            <td>
+            One even gave my little dog a biscuit.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 200px;"><source src="wav_for_demo/demo3/5_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>
+        <tr>
+			<td>
+            The despair woman's voice resonated slowly, her miserable energy remaining low, pitch high.
+            </td>
+            <td>
+            One even gave my little dog a biscuit.
+            </td>
+            <td style="text-align: center">
+            <audio controls style="width: 200px;"><source src="wav_for_demo/demo3/6_decompressed.wav" type="audio/wav"></audio>
+            </td>
+		</tr>        
+	</tbody>
+</table>
 
 <br>
