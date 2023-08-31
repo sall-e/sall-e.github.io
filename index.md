@@ -54,7 +54,7 @@ If you want to get the full dataset, please contact the following email address 
 
 <br>
 
-# Audio Demo
+# Diversity
 
 <ruby>Text: A doctor believes this boy to be mad.</ruby>
 <table>
