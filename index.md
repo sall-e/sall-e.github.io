@@ -1,21 +1,15 @@
 {:.no_toc}
 
 
-# Authors
-<ul>
-    <li> <b>Shengpeng Ji</b><sup>1</sup></li>
-    <li> <b>Jialong Zuo</b><sup>1</sup></li>
-    <li> <b>Minghui Fang</b><sup>1</sup></li>
-    <li> <b>Ziyue Jiang</b><sup>1</sup></li>
-    <li> <b>Feiyang Chen</b><sup>2</sup></li>
-    <li> <b>Xinyu Duan</b><sup>2</sup></li>
-    <li> <b>Baoxing Huai</b><sup>2</sup></li>
-    <li> <b>Zhou Zhao</b><sup>1</sup><sup>*</sup></li>
-</ul>
+# Request for TextrolSpeech
 
-<span> <sup>1</sup> ZheJiang University </span> <br>
-<span> <sup>2</sup> HuaWei Cloud </span> <br>
-<span> <sup>*</sup> Corresponding Author </span> <br>
+We have released a demo version containing 500 style descriptions on this page with five style factors: female, high pitch, normal speaking speed, low energy, neutral. You can click <a href="demo_version.txt" download="demo.txt">demo_version</a> to download.
+If you want to get the full dataset, please contact the following email address and refer to the following <a href="apply.md" download="apply_form.md">format</a>.
+<ul>
+<li> <a href="mailto:shengpengji@zju.edu.cn">shengpengji@zju.edu.cn</a> </li>
+<li> <a href="mailto:jialongzuo@zju.edu.cn">jialongzuo@zju.edu.cn</a> </li>
+<li> <a href="mailto:minghuifang@zju.edu.cn">minghuifang@zju.edu.cn</a> </li>
+</ul>
 
 <br>
 
@@ -39,16 +33,6 @@ The figure below shows two example word clouds for style descriptions.
 The figure below shows the distribution of emotions in TextrolSpeech.
 <br>
 <img src="figure3.png">
-<br>
-
-We have released a demo version containing 500 style descriptions on this page with five style factors: female, high pitch, normal speaking speed, low energy, neutral. You can click <a href="demo_version.txt" download="demo.txt">demo_version</a> to download.
-If you want to get the full dataset, please contact the following email address and refer to the following <a href="apply.md" download="apply_form.md">format</a>.
-<ul>
-<li> <a href="mailto:shengpengji@zju.edu.cn">shengpengji@zju.edu.cn</a> </li>
-<li> <a href="mailto:jialongzuo@zju.edu.cn">jialongzuo@zju.edu.cn</a> </li>
-<li> <a href="mailto:minghuifang@zju.edu.cn">minghuifang@zju.edu.cn</a> </li>
-</ul>
-
 <br>
 
 # Diversity
