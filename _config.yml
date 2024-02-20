@@ -1,7 +1,6 @@
-theme: jekyll-theme-cayman
-layout: default
-markdown: kramdown
-kramdown:
-  toc_levels: 1..2
 title: "TEXTROLSPEECH: A TEXT STYLE CONTROL SPEECH CORPUS WITH CODEC LANGUAGE TEXT-TO-SPEECH MODELS"
 
+theme: jekyll-theme-cayman
+
+github:
+  repository_url: https://github.com/sall-e

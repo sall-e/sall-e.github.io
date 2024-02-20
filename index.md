@@ -1,8 +1,7 @@
 {:.no_toc}
 
-
 # Request for TextrolSpeech
-
+<p align="justify">
 We have released a demo version containing 500 style descriptions on this page with five style factors: female, high pitch, normal speaking speed, low energy, neutral. You can click <a href="demo_version.txt" download="demo.txt">demo_version</a> to download.
 If you want to get the full dataset, please contact the following email address and refer to the following <a href="apply.md" download="apply_form.md">format</a>.
 <ul>
@@ -10,32 +9,29 @@ If you want to get the full dataset, please contact the following email address 
 <li> <a href="mailto:jialongzuo@zju.edu.cn">jialongzuo@zju.edu.cn</a> </li>
 <li> <a href="mailto:minghuifang@zju.edu.cn">minghuifang@zju.edu.cn</a> </li>
 </ul>
+</p>
 
-<br>
+## TextrolSpeech
 
-# Abstract
-Recently, there has been a growing interest in the field of controllable Text-to-Speech (TTS). While previous studies have relied on users providing specific style factor values based on acoustic knowledge or selecting reference speeches that meet certain requirements, generating speech solely from natural text prompts has emerged as a new challenge for researchers. This challenge arises due to the scarcity of high-quality speech datasets with natural text style prompt and the absence of advanced text-controllable TTS models. In light of this, 1) we propose TextrolSpeech, which is the first large-scale speech emotion dataset annotated with rich text attributes. The dataset comprises 236,220 pairs of style prompt in natural text descriptions with five style factors and corresponding speech samples. Through iterative experimentation, we introduce a multi-stage prompt programming approach that effectively utilizes the GPT model for generating natural style descriptions in large volumes. 2) Furthermore, to address the need for generating audio with greater style diversity, we propose an efficient architecture called Salle. This architecture treats text controllable TTS as a language model task, utilizing audio codec codes as an intermediate representation to replace the conventional mel-spectrogram. Finally, we successfully demonstrate the ability of the proposed model by showing a comparable performance in the controllable TTS task.
-
-<br>
-
-# TextrolSpeech
-
+<p align="justify">
 We believe that utilizing natural text descriptions for controlling style in speech is the direction for future development of controllable TTS systems, due to its user-friendliness, generalizability, and interpretability. However, to the best of our knowledge, there is currently no high-quality, large-scale open-source text style prompt speech dataset available for advanced text-controllable TTS models. In this work, we introduce a novel 330-hour clean text style prompt speech emotion dataset called TextrolSpeech. Each style encompasses 5 style factors and 500 distinct natural language text descriptions.
+</p>
+
 <br>
 <img src="figure1.png">
 <br>
 
-The figure below shows two example word clouds for style descriptions.
+<p align="center">The figure below shows two example word clouds for style descriptions.</p>
 <br>
 <img src="figure2.png">
 <br>
 
-The figure below shows the distribution of emotions in TextrolSpeech.
+<p align="center">The figure below shows the distribution of emotions in TextrolSpeech.</p>
 <br>
 <img src="figure3.png">
 <br>
 
-# Diversity
+## Diversity
 
 <ruby>Text: A doctor believes this boy to be mad.</ruby>
 <table>
@@ -271,6 +267,7 @@ The figure below shows the distribution of emotions in TextrolSpeech.
 	</tbody>
 </table>
 
+
 # Generalization
 
 <ruby>We show the model's ability to generalize to unknown emotions, such as the voice of despair.</ruby>
@@ -353,3 +350,19 @@ The figure below shows the distribution of emotions in TextrolSpeech.
 </table>
 
 <br>
+
+
+
+<style>
+.main-content table {
+    display: inline-table;
+}
+table {
+    table-layout:fixed;
+    width: 100%;
+    overflow: hidden;
+}
+#player{
+    width: 100%;
+}
+</style>
