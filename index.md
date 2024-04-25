@@ -1,13 +1,11 @@
-{:.no_toc}
 
-# Request for TextrolSpeech
+
+# 🔥 Request for TextrolSpeech
 <p align="justify">
 We have released a demo version containing 500 style descriptions on this page with five style factors: female, high pitch, normal speaking speed, low energy, neutral. You can click <a href="demo_version.txt" download="demo.txt">demo_version</a> to download.
-If you want to get the full dataset, please contact the following email address and refer to the following <a href="apply.md" download="apply_form.md">format</a>.
+Full textrolspeech dataset download as follows:
 <ul>
-<li> <a href="mailto:shengpengji@zju.edu.cn">shengpengji@zju.edu.cn</a> </li>
-<li> <a href="mailto:jialongzuo@zju.edu.cn">jialongzuo@zju.edu.cn</a> </li>
-<li> <a href="mailto:minghuifang@zju.edu.cn">minghuifang@zju.edu.cn</a> </li>
+<li> <a href="https://github.com/jishengpeng/TextrolSpeech">Github Link</a> </li>
 </ul>
 </p>
 
@@ -16,10 +14,6 @@ If you want to get the full dataset, please contact the following email address 
 <p align="justify">
 We believe that utilizing natural text descriptions for controlling style in speech is the direction for future development of controllable TTS systems, due to its user-friendliness, generalizability, and interpretability. However, to the best of our knowledge, there is currently no high-quality, large-scale open-source text style prompt speech dataset available for advanced text-controllable TTS models. In this work, we introduce a novel 330-hour clean text style prompt speech emotion dataset called TextrolSpeech. Each style encompasses 5 style factors and 500 distinct natural language text descriptions.
 </p>
-
-<br>
-<img src="figure1.png">
-<br>
 
 <p align="center">The figure below shows two example word clouds for style descriptions.</p>
 <br>
